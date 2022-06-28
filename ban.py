@@ -2,8 +2,8 @@ import requests
 import time
 from discord_webhook import DiscordWebhook
 
-key = '783da3cf-64e3-42cb-a17b-09c2048971a4'
-webhook = 'https://discord.com/api/webhooks/972975143926239324/ffTFVr0xmoGmRSoXUtLnA1_XGSUytqVYN75KwiWUWixqG1BZyNA-ZrK6bq9zQcK9uItw'
+key = ' ' #hypixel api key
+webhook = ' ' #discord webhook
 checkDelay = 3000 #in ms
 
 def staff():
